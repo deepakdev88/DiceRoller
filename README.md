@@ -88,7 +88,7 @@ Fork the repo, make your changes, and submit a PR.
 
 ## 📃 License
 
-Add a license to let others use/contribute to your project!
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
